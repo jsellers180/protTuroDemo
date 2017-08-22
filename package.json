@@ -1,0 +1,16 @@
+{
+  "name": "prot_tute",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "jasmine": "^2.7.0",
+    "mocha": "^3.5.0"
+  }
+}
